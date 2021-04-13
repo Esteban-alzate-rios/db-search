@@ -1,0 +1,22 @@
+{
+  "name": "db-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esteban-alzate-rios/db-search.git"
+  },
+  "author": "esteban alzate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esteban-alzate-rios/db-search/issues"
+  },
+  "homepage": "https://github.com/Esteban-alzate-rios/db-search#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}

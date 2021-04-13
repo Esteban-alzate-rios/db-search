@@ -1,0 +1,21 @@
+.ficha-informacion {
+    flex: 1 250px;
+    padding: 2px 5px 2px 5px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.card-img-top {
+    width: 500px;
+    height: 400px;
+}
+
+.jumbotron {
+    color: black;
+    background-image: url("../imagenes/monsteer.png");
+    margin-top: 32px;
+}
+
+.fondo {
+    color: chartreuse;
+}
